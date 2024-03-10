@@ -13,7 +13,7 @@ export default function RenderingList(){
 
     return (
         <div className='welcome'>
-            <ol>
+            <ol style={{textAlign:'left'}}>
                 {food}
             </ol>
         </div>
