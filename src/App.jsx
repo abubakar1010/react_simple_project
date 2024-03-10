@@ -3,6 +3,7 @@ import './App.css'
 import Condition from './Conditional'
 import Greeting from './Greeting'
 import ReactComponent from './ReactComponent'
+import RenderingList from './RenderingLists'
 import User from './User'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <Greeting />
     <User />
     <Condition />
+    <RenderingList />
     </>
   )
 }
