@@ -2,6 +2,7 @@
 import './App.css'
 import Greeting from './Greeting'
 import ReactComponent from './ReactComponent'
+import User from './User'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <ReactComponent />
 
     <Greeting />
+    <User />
     </>
   )
 }
