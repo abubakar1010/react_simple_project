@@ -1,5 +1,6 @@
 
 import './App.css'
+import Condition from './Conditional'
 import Greeting from './Greeting'
 import ReactComponent from './ReactComponent'
 import User from './User'
@@ -15,6 +16,7 @@ function App() {
 
     <Greeting />
     <User />
+    <Condition />
     </>
   )
 }
